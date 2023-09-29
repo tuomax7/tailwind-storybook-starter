@@ -10172,9 +10172,12 @@ react-focus-lock@^2.1.0:
     use-callback-ref "^1.2.5"
     use-sidecar "^1.0.5"
 
-react-headless-pagination@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/react-headless-pagination/-/react-headless-pagination-0.1.0.tgz#5a8a7ff68c79466b411dd877b5f16724c472e678"
+react-headless-pagination@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/react-headless-pagination/-/react-headless-pagination-1.1.4.tgz#d255bcf768b097dbba2a6d5030b6ddb17accb374"
+  integrity sha512-Z5d55g3gM2BQMvHJUGm1jbbQ5Bgtq54kNlI5ca1NTwdVR8ZNunN0EdOtNKNobsFRKuZGkQ24VTIu6ulNq190Iw==
+  dependencies:
+    classnames "2.3.1"
 
 react-helmet-async@^1.0.2, react-helmet-async@^1.0.7:
   version "1.1.2"
